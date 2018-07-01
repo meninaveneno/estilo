@@ -1,0 +1,648 @@
+/ *
+Autor: Burkyst
+* /
+
+/ * Misc & Body * /
+@import url ('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+/ * Usuários e botão DJ * /
+@import url ('https://rawgit.com/meninaveneno/users/master/users.css');
+@import url ('https://rawgit.com/meninaveneno/novo/master/novo.css');
+
+/ * Título de antes do nick * /
+
+/ * Seduzente * /
+.id-22377749 .msg .de .un :: before {
+    conteúdo: 'Lil';
+}
+
+
+#app.community.community__right-bar # header-panel-bar,
+#app.community .community__top {background: linear-gradient (para baixo, # ff00f2 0, rgba (255, 0, 242,0.4) 0, # ff87ff 200%)}
+#app.community .community__top .community__meta .community__name {color: #fff}
+# app-menu.in-room {background: gradiente linear (para baixo, # ff00f2 0, rgba (255, 0, 242,0.8) 0, # 000 200%) sem repetição; tamanho do fundo: 200% 54px }
+
+#app .community .community__bottom,
+#app.community__community__bottom .bottom__playback-controls,
+#app.community .community__bottom .bottom__playback-meta {background: gradiente linear (para baixo, # ff00f2 0, rgba (255, 0, 242,0.4) 0, # ff87ff 200%)}
+#app .community .community__bottom .community__playlist - desktop {background: gradiente linear (para baixo, rgba (255, 0, 242, 0,4) 0, # ff87ff 200%)}
+#app.community__bottom .community__playlist - desktop> i {color: # ff87ff}
+
+
+
+--------------------------
+
+
+
+
+
+-----------------------------------------
+
+
+
+.media-list .meta {
+    border-bottom: # ff87ff 0px sólido! importante;
+    -webkit-box-shadow: inserir 0 0 0 0 # 323742! importante;
+}
+
+.media-list .action.related {
+    Mostrar nenhum;
+}
+
+.media-list .meta {
+    border-bottom: # ff87ff 0px sólido! importante;
+    -webkit-box-shadow: inserir 0 0 0 0 # 323742! importante;
+}
+
+.media-list .row.selected {
+    fundo: rgba (37, 70, 109, 1)! importante;
+}
+
+.media-list .action.related {
+    Mostrar nenhum;
+}
+
+.playlist-media .actions {
+    Largura: 230px;
+    margem direita: 80px;
+    transição: facilidade de 0,4s;
+}
+
+.playlist-media-first-item .actions,
+.playlist-media-last-item .actions {
+    largura: 165px! importante;
+}
+
+.actions.related {
+    Mostrar nenhum;
+}
+
+.playlist-media .actions,
+.media-list .selected .actions {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+    margin-right: 40px! important;
+}
+
+# playlist-menu .button {
+    fundo: preto;
+    cor branca;
+}
+
+# playlist-meta {
+    top: 0;
+    largura: 0;
+}
+
+# playlist-menu .menu .row .count {
+    cor: # ff87ff! importante;
+    font-weight: normal;
+}
+
+# playlist-menu .title {
+    cor: # ff87ff
+}
+
+#search {
+    fundo: preto! importante;
+    opacidade: 0,70;
+    filtro: alfa (opacidade = 70);
+}
+
+# playlist-import: hover {
+    background: rgba (255, 135, 255, 0.7)! importante;
+}
+
+# playlist-create: hover {
+    background: rgba (255, 135, 255, 0.7)! importante;
+}
+
+.media-list .row.now-playing {
+    borda inferior: branca;
+}
+
+# playlist-menu {
+    fundo: preto! importante;
+    opacidade: 0,70;
+    filtro: alfa (opacidade = 70);
+}
+
+# playlist-menu .menu .row.selected {
+    background: rgba (255, 135, 255, 0.4)! importante;
+    border-radius: 0px;
+}
+
+# playlist-menu .menu .row .name {
+    font-weight: normal;
+}
+
+.media-list.history .row.selected,
+.media-list .row.now-playing .actions {
+    background: rgba (255, 135, 255, 0.4)! importante;
+}
+
+.media-list .actions .media-list .selected .actions {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+}
+
+.media-list.history .row: hover .actions {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+    margem-direita: 140px! importante;
+}
+
+.media-list .selected .actions: hover {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+}
+
+.media-list .row.now-playing {
+    border-bottom: 0px preto sólido! importante;
+    background-color: rgba (10, 19, 40, 0.5)! importante;
+}
+
+.media-list .row.now-playing .actions {
+    largura: 55px! importante;
+}
+
+.media-list .selected .actions {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+}
+
+.media-list .actions {
+    background: rgba (255, 255, 255, 0.3)! importante;
+    border-radius: 80px;
+    margin-right: 40px! important;
+}
+
+.media-list .row {
+    transição: facilidade de 0,4s;
+}
+
+.media-list .row: hover {
+    background-color: rgba (10, 19, 40, 0.2)! importante;
+    raio de fronteira: 10 px;
+}
+
+.media-list .meta {
+    borda inferior: 0px;
+}
+
+# playlist-activate-button,
+# playlist-edit-button,
+# playlist-shuffle-button,
+# playlist-delete-button {
+    fundo: transparente! importante;
+    transição: facilidade de 0,4s;
+    border-radius: 0px;
+}
+
+# playlist-activate-button span {
+    cor: # ff87ff! Importante;
+}
+
+# playlist-activate-button: hover,
+# playlist-edit-button: hover,
+# playlist-shuffle-button: hover,
+# playlist-delete-button: hover {
+    background-color: rgba (10, 19, 40, 0.6)! importante;
+    border-radius: 0px;
+}
+
+# search-menu .selected,
+# search-menu li {
+    background-color: rgba (10, 19, 40, 1)
+}
+
+# your-next-media.in-history {
+    cor: # FF1017;
+}
+
+.media-list.history .meta .author {
+    cor branca;
+}
+
+.media-list.history .score .positive {
+    cor: # 1FD800! importante;
+    font-weight: normal;
+}
+
+.media-list.history .score .grabs span {
+    cor: # 00E1FF! importante;
+}
+
+.media-list.history .score .negative {
+    font-weight: normal;
+}
+
+# playlist-panel {
+    fundo: rgba (0, 0, 0, 0.7)! importante;
+}
+# playlist-menu {
+    fundo: rgba (0, 0, 0, 0.2)! importante;
+}
+
+
+
+
+-------------------------------------------------- ---
+
+
+/ * Lista das salas * /
+.communidades .grid .cell .bar {
+    posição: absoluta;
+    top: 0;
+    esquerda: 0;
+    índice z: 3;
+    largura: 100%;
+    altura: 43px;
+    fundo: rgba (0, 0, 0, 0,5);}
+.comunidades .grid .cell {
+    posição: relativa;
+    float: esquerda;
+    estouro: oculto;
+    margem: 0 15px 15px 0;
+    largura: 250px;
+    altura: 300 px;
+    fundo: rgba (0, 0, 0, 0,5);
+    cursor: ponteiro;}
+.comunidades .grid .cell: hover> .meta {
+    margem superior: 43px;
+    altura: 257 px;
+    fundo: rgba (40, 40, 40, 0,7);
+    transição: todos os .15s facilitam;}
+.comunidades .grid .cell: hover> .meta .join {
+    fundo: -80px! importante;
+    transição: todos os .15s com facilidade;
+}
+.communidades .grid .cell .favorite {
+    top: 0;
+    direita: 0;
+    largura: 43px;
+    altura: 43px;
+    plano de fundo: rgba (255, 135, 255, 0);
+.comunidades .grid .cell .meta {
+    posição: relativa;
+    z-index: 2;
+    margem superior: 186 px;
+    largura: 100%;
+    altura: 90 px;
+    fundo: rgba (0, 0, 0, 0,5);
+    transição: todos os .25s facilitam;}
+.comunidades .grid .cell .meta .join {
+    raio de fronteira: 10 px;
+    border: 1px solid rgba (255, 135, 255, 0,63);
+    plano de fundo: rgb (0, 0, 0);}
+.comunidades .grid .cell .meta .join: hover {
+    fundo: gradiente linear (hsl (303, 61%, 53%), hsla (303, 62%, 21%, 0,95));}
+.grid .cell .bar, .grid .cell .meta {
+fundo: gradiente linear (hsla (0, 0%, 0%, 0,94), hsla (0, 0%, 0%, 0,94))! importante;}
+#chat.welcome {
+    cor: # ff87ff;}
+.grid .cell .top .expires span {
+	cor: hsl (303, 100%, 50%)! importante;}
+.user-content.communities .grid .cell, .grid .cell {
+    fundo: gradiente radial (hsl (0, 0%, 0%), hsl (0, 0%, 0%))! importante;}
+.grid .cell .meta .host {
+	texto-alinhar: centro! importante;
+	top: 6px! importante;
+	cor: #eee! important;}
+
+
+
+/ * Bordas * /
+#Barra de pesquisa,
+.app-right .friends .list-header .input-background,
+# listas de usuários .list-header .input-background,
+#dashboard .search,
+# rcs-menu .search,
+# barra de filtros,
+# user-friends .search {
+    -webkit-box-shadow: inserção 0 0 0 1px # ff23ff! important;
+    -moz-box-shadow: inserção 0 0 0 1px # ff23ff! important;
+    box-shadow: inserção 0 0 0 1px # ff23ff! important;}
+
+
+/ * Bordas Redondas * /
+#Barra de pesquisa,
+# barra de filtros,
+# listas de usuários .list-header .input-background,
+.app-right .friends .list-header .input-background,
+# rcs-menu .search,
+#dashboard .search,
+# user-friends .search,
+# search-menu {
+    border-radius: 8px;}
+    
+    / * Barra Mouse * /
+:: - webkit-scrollbar-thumb {
+    background: rgba (255, 135, 255, 0.75)! importante;
+    border-radius: 2px;}
+.jspDrag: hover,
+.jspTrack .jspActive,
+.jspTrack .jspHover {
+    fundo: rgba (255, 135, 255, 0.75)! important;}
+.jspDrag {
+    fundo: rgba (255, 135, 255, 0,75);
+    -webkit-box-shadow: inserção 0 0 0 1px rgba (255, 135, 255, 0,45);
+    -moz-box-shadow: inserção 0 0 0 1px rgba (255, 135, 255, 0,45);
+    box-shadow: inserção 0 0 0 1px rgba (255, 135, 255, 0,45);
+    border-radius: 2px;}
+    
+    / * Menu niveis * /
+.experiência .levels .level .label {
+    fundo: gradiente linear (hsla (0, 14%, 11%, 0,78), hsla (0, 9%, 7%, 0,99));
+.experiência .levels .level {
+    fundo: gradiente linear (hsla (0, 12%, 24%, 0,72), hsla (255, 9%, 5%, 0,58));
+.experiência .levels .level.mystery .label {
+    fundo: gradiente linear (hsla (303, 68%, 24%, 0,92), hsla (303, 78%, 15%, 0,91));
+div.level.earned.ep .label {
+    fundo: rgba (255, 135, 255, 1)! important;}
+    
+    
+/ * Interface * /
+# footer-user .info {
+    fundo: rgba (0, 0, 0, 0,70);}
+.tab-menu button.selected {
+    fundo: gradiente linear (hsl (303, 61%, 54%), hsl (303, 59%, 31%))! importante;}
+botão de menu .tab: hover {
+    fundo: gradiente linear (hsla (303, 53%, 36%, 1), hsl (303, 59%, 31%));}
+botão do menu .tab {
+    fundo: rgba (0, 0, 0, 0,5);
+    border-radius: 15px;}
+# rcs-progress-container {
+    background-color: # 450643! important;}
+# rcs-progress-container .bar {
+    fundo: gradiente linear (hsl (303, 65%, 56%), hsla (303, 62%, 30%, 0,95))! importante;}
+# playlist-menu .menu .row .count {
+    color: # d09d39;}
+# user-view {
+    fundo: rgba (17, 19, 23, 0.8)! important;}
+#menu do usuário {
+    fundo: rgba (28, 31, 37, 0)! important;}
+# rs-skip-button {
+    fundo: rgba (28, 31, 37, 0)! important;}
+# history-button {
+    fundo: rgba (28, 31, 37, 0)! important;}
+#vote
+    fundo: rgba (34, 34, 36, 0.4)! important;}
+
+}
+
+.nav-left__item.selected, .nav-left__item.selected: hover {background: 0 0! importante} .nav-left__item.selecionado .nav-left__item-icon, .nav-left__item.selecionado .nav-left__item-text {cor : # ff87ff} .nav-left__item.selected {border-color: # ff87ff; fundo: # 1b1b1b}
+
+
+
+
+#app .logo-wrapper .plugdj-logo {
+    largura: 30px;
+    altura: 30px;
+    plano de fundo: url ("https://imgur.com/h8QNKFJ.jpg") no-repeat 0 0;
+}
+
+#app .logo-wrapper .back-button {
+    opacidade: 1! importante;
+}
+
+#app .logo-wrapper .back-button: hover {
+    opacidade: .6! importante;
+}
+
+
+
+
+	
+
+
+# rollover de usuário {
+    fundo: gradiente linear (135deg, hsla (0,0%, 20%, 0,6), hsla (0,0%, 0%, 0,6));
+    box-shadow: 0 0 10px # 000;
+}
+# user-rollover .info {
+    fundo: gradiente linear (hsl (302, 100%, 40%, 0,5), hsl (302, 100%, 30%, 0,5));
+    box-shadow: 0px -2px 10px -1px # 000;
+}
+
+# rollover de usuário .info i + span {
+    text-shadow: 0 0 5px # 000;
+}
+.polegar {
+    fundo: hsla (210,10%, 10%, 0,4);
+}
+# user-rollover .info .badge-box,
+# user-rollover .background,
+# video-only-dj .background,
+# sugestão de pesquisa,
+# search-suggestion ul {
+    fundo: rgba (0,0,0,0);
+}
+.thumb.large,
+.polegar,
+# rollover de usuário .meta.online .thumb {
+    border-color: hsl (80,70%, 50%)! importante;
+    box-shadow: 0 0 7px hsl (80,70%, 50%)! importante;
+}
+.thumb.large,
+# rollover de usuário .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl (80,70%, 50%)! importante;
+}
+# user-rollover.is-staff .meta.online .thumb,
+#waitlist .is-staff .thumb {
+    border-color: hsl (270,50%, 50%)! importante;
+    box-shadow: 0 0 7px hsl (270,50%, 50%)! importante;
+}
+# user-rollover.is-staff .meta.online .thumb.large {
+    box-shadow: 0 0 15px hsl (270,50%, 50%)! importante;
+}
+# user-rollover .meta.subscriber .thumb,
+#waitlist .is-subscriber .thumb {
+    border-color: hsl (45,80%, 45%)! importante;
+    box-shadow: 0 0 7px hsl (45,80%, 45%)! importante;
+}
+# user-rollover .meta.subscriber .thumb.large {
+    box-shadow: 0 0 15px hsl (45,80%, 45%)! importante;
+}
+# rollover de usuário .meta.online .status i {
+    Mostrar nenhum;
+}
+# rollover de usuário .meta.online .status span {
+    cor: hsl (80,70%, 50%);
+    margem esquerda: 0;
+}
+
+# rollover de usuário .meta.offline .status i {
+	top: 0px! important;
+}
+
+.offline .thumb {
+    border-color: hsl (0,0%, 40%)! importante;
+    box-shadow: nenhum! importante;
+}
+# rollover de usuário .action {
+    fundo: gradiente radial (hsla (0,0%, 7%, 0,8), hsla (0,0%, 0%, 0,8)) importante;
+    box-shadow: 0 0 2px 1px # 151515! importante;
+}
+# rollover de usuário .action: hover {
+    fundo: gradiente radial (hsla (303, 100%, 30%, 0,9), hsla (300, 100%, 20%, 0,9)) importante;
+    box-shadow: inserir 0 0 50px # 000! important;
+}
+.signed-in .community__top-right .btn-subscribe {
+    exibir: nenhum! importante;
+}
+.user-content.profile .meta {
+    margin-top: 60px! importante;
+}
+.user-level-dropdown__level-text {
+    cor: # ff00f2! importante;
+}
+.user-level-dropdown__level-number .fa,
+.user-level-dropdown__progress .progress .progress-bar, .btn-level {
+    background-color: # ff00f2! importante;
+    cor: #fff;
+}
+.btn-level {
+    cor: #fff 
+}
+dropdown .user-level .user-name {
+    font-weight: 500;
+}
+
+@media (min-width: 576px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 83,2%! importante;
+}
+}
+
+@media (min-width: 980px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 90,60%! importante;
+}
+}
+
+@media (min-width: 1200px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 90,63%! importante;
+}
+}
+
+@media (min-width: 1600px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 92,33%! importante;
+}
+}
+
+@media (min-width: 1800px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 93,7%! importante;
+}
+}
+
+@media (min-width: 1920px) {
+.community__right-bar, # user-lists, #waitlist,
+.community .friends, # rcs-menu {
+    altura: 93,7%! importante;
+}
+}
+
+@media (min-width: 992px) {
+.community__bottom {
+    largura: 100%;
+}
+}
+
+# rs-toggle-sidebar {
+	exibir: nenhum! importante;
+}
+
+@media (min-width: 768px) {
+[data-view = room] .bottom__playback-meta {
+	largura: 30%;
+}
+}
+
+.friends .jspContainer {
+    altura: 730px! importante;
+}
+
+@media (min-width: 1200px) {
+.friends .jspContainer {
+    altura: 465px! importante;
+}
+}
+
+@media (min-width: 1600px) {
+.friends .jspContainer {
+    altura: 554 px! importante;
+}
+}
+
+@media (min-width: 1800px) {
+.friends .jspContainer {
+    altura: 730px! importante;
+}
+}
+
+@media (min-width: 1920px) {
+.friends .jspContainer {
+    altura: 730px! importante;
+}
+}
+
+.rs-skip-button {
+margin-left: 0px! important;
+}
+
+
+.rsrow: hover {
+    background: gradiente linear (hsla (220,10%, 10%, 0,5), hsla (220,10%, 12%, 0,5)) importante;
+}
+
+# waitlist-button .count {
+    cor: #eee! importante;
+}
+
+.share-song-item.share-facebook {
+    cor: # 983b90! importante;
+}
+    
+.share-song-item.share-twitter {
+    cor: # f11de7! importante;
+}
+
+.share-song-item.share-facebook: hover,
+.share-song-item.share-twitter: hover {
+    cor: #eee! importante;
+}
+
+# user-friends .tab-menu button {
+    largura: 100%! importante;
+}
+
+# user-friends .tab-menu button .count {
+    top: 16px! importante;
+    margin-left: 5px! important;
+}
+
+botão do menu .tab {
+    largura: 50%! importante;
+}
+    
+# user-view .user-content .tab-menu button.avatars,
+# user-view .user-content .tab-menu button.badges,
+# user-view .user-content .tab-menu button.misc,
+# user-view .user-content .tab-menu button: last-child.avatars,
+# user-view .user-content .tab-menu button: last-child.badges,
+# user-view .user-content .tab-menu button: last-child.misc {
+    largura: 96%! importante;
+}
+    
+# user-view # user-inventory.user-content .tab-menu button.history,
+# user-view # user-inventory.user-content .tab-menu button: last-child {
+    largura: 96%! importante;
+}
